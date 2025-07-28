@@ -1,0 +1,110 @@
+[
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I./include",
+      "-o",
+      "app",
+      "src/tcp_client.cpp"
+    ],
+    "directory": "/home/josh/Projects/tcp",
+    "file": "/home/josh/Projects/tcp/src/tcp_client.cpp",
+    "output": "/home/josh/Projects/tcp/app"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I./include",
+      "-o",
+      "app",
+      "src/tcp_client_async.cpp"
+    ],
+    "directory": "/home/josh/Projects/tcp",
+    "file": "/home/josh/Projects/tcp/src/tcp_client_async.cpp",
+    "output": "/home/josh/Projects/tcp/app"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I./include",
+      "-o",
+      "app",
+      "src/tcp_server.cpp"
+    ],
+    "directory": "/home/josh/Projects/tcp",
+    "file": "/home/josh/Projects/tcp/src/tcp_server.cpp",
+    "output": "/home/josh/Projects/tcp/app"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I./include",
+      "-o",
+      "app",
+      "src/tcp_server_async.cpp"
+    ],
+    "directory": "/home/josh/Projects/tcp",
+    "file": "/home/josh/Projects/tcp/src/tcp_server_async.cpp",
+    "output": "/home/josh/Projects/tcp/app"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I./include",
+      "-o",
+      "app",
+      "src/logger.cpp"
+    ],
+    "directory": "/home/josh/Projects/tcp",
+    "file": "/home/josh/Projects/tcp/src/logger.cpp",
+    "output": "/home/josh/Projects/tcp/app"
+  },
+  {
+    "arguments": [
+      "/usr/bin/g++",
+      "-c",
+      "-std=c++23",
+      "-g",
+      "-Wall",
+      "-Wextra",
+      "-pedantic",
+      "-I./include",
+      "-o",
+      "app",
+      "main.cpp"
+    ],
+    "directory": "/home/josh/Projects/tcp",
+    "file": "/home/josh/Projects/tcp/main.cpp",
+    "output": "/home/josh/Projects/tcp/app"
+  }
+]

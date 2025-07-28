@@ -6,4 +6,6 @@
 int main() {
     TcpServer tcp_server("127.0.0.1", 3000, 10, true, true);
     tcp_server.acceptClient();
+
+    return 0;
 }

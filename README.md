@@ -21,3 +21,4 @@ int main() {
 
 ## Todo
 - add windows support and build
+- add static and dynamic library builds

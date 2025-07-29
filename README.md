@@ -18,3 +18,6 @@ int main() {
 }
 
 ```
+
+## Todo
+- add windows support and build

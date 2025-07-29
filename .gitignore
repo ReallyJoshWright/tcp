@@ -1,3 +1,7 @@
 logs/
 app
 .cache
+compile_commands.json
+*.so
+*.a
+*.o
